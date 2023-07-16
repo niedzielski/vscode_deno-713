@@ -1,0 +1,9 @@
+{
+  "deno.enable": true,
+  "deno.enablePaths": [
+    ".",
+    "sub",
+  ],
+  "deno.lint": true,
+  "deno.unstable": true,
+}
